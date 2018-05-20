@@ -5,15 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scense/OpenScense.unity
-    guid: 3ce2f3298947386468261d269d70b8e7
   - enabled: 1
-    path: Assets/Scense/OnGame.unity
+    path: Assets/Res/Scenes/MainScene.unity
+    guid: 02ce39532987c1142af391ac830c7a3b
+  - enabled: 1
+    path: Assets/Res/Scenes/OnlineGame.unity
+    guid: bc0b16b4d8b58754ea38bd5e3d02c19b
+  - enabled: 0
+    path: Assets/Res/Scenes/OnGame.unity
     guid: ec7a33f004ab09d4bbfa9bfa9e6b8388
   - enabled: 0
-    path: Assets/Scense/Kill.unity
+    path: Assets/Res/Scenes/OpenScense.unity
+    guid: 3ce2f3298947386468261d269d70b8e7
+  - enabled: 0
+    path: Assets/Res/Scenes/Kill.unity
     guid: a336375effd4dfb41b3b21d41f498503
   - enabled: 0
-    path: Assets/Scense/LoadingScene.unity
+    path: Assets/Res/Scenes/LoadingScene.unity
     guid: 1ddc264b13e353943b983a91cf6d018a
