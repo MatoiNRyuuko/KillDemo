@@ -1,0 +1,12 @@
+D:\VSproject\TCPServer\Common\bin\Debug\Common.dll
+D:\VSproject\TCPServer\Common\bin\Debug\Common.pdb
+D:\VSproject\TCPServer\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\VSproject\TCPServer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\VSproject\TCPServer\Common\obj\Debug\Common.dll
+D:\VSproject\TCPServer\Common\obj\Debug\Common.pdb
+D:\VSproject\KillDemoServer\KillDemoServer\Common\bin\Debug\Common.dll
+D:\VSproject\KillDemoServer\KillDemoServer\Common\bin\Debug\Common.pdb
+D:\VSproject\KillDemoServer\KillDemoServer\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\VSproject\KillDemoServer\KillDemoServer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\VSproject\KillDemoServer\KillDemoServer\Common\obj\Debug\Common.dll
+D:\VSproject\KillDemoServer\KillDemoServer\Common\obj\Debug\Common.pdb

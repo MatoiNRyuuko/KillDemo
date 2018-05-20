@@ -1,0 +1,16 @@
+D:\VSproject\KillDemoServer\KillDemoServer\obj\Debug\KillDemoServer.csprojResolveAssemblyReference.cache
+D:\VSproject\KillDemoServer\KillDemoServer\obj\Debug\KillDemoServer.csproj.CoreCompileInputs.cache
+D:\VSproject\KillDemoServer\KillDemoServer\bin\Debug\KillDemoServer.exe.config
+D:\VSproject\KillDemoServer\KillDemoServer\bin\Debug\KillDemoServer.exe
+D:\VSproject\KillDemoServer\KillDemoServer\bin\Debug\KillDemoServer.pdb
+D:\VSproject\KillDemoServer\KillDemoServer\bin\Debug\Common.dll
+D:\VSproject\KillDemoServer\KillDemoServer\bin\Debug\MySql.Data.dll
+D:\VSproject\KillDemoServer\KillDemoServer\bin\Debug\Common.pdb
+D:\VSproject\KillDemoServer\KillDemoServer\bin\Debug\MySql.Data.xml
+D:\VSproject\KillDemoServer\KillDemoServer\obj\Debug\KillDemoServer.csproj.CopyComplete
+D:\VSproject\KillDemoServer\KillDemoServer\obj\Debug\KillDemoServer.exe
+D:\VSproject\KillDemoServer\KillDemoServer\obj\Debug\KillDemoServer.pdb
+D:\VSproject\KillDemoServer\KillDemoServer\bin\Debug\KillDemoServer.exe.manifest
+D:\VSproject\KillDemoServer\KillDemoServer\bin\Debug\KillDemoServer.application
+D:\VSproject\KillDemoServer\KillDemoServer\obj\Debug\KillDemoServer.exe.manifest
+D:\VSproject\KillDemoServer\KillDemoServer\obj\Debug\KillDemoServer.application
