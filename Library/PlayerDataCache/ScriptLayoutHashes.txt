@@ -1,4 +1,4 @@
-WindowsStandalone
+Android
 8c8e424198240cd5381e7765a781213f Assembly-CSharp.dll:.UIButtonMessage
 f62d1e12c4ea2e5d19ca5a2c81b0bf32 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.TiltShift
 a4679245d992f9784666cfa4339d7268 Assembly-CSharp.dll:.TweenOrthoSize

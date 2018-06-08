@@ -6,7 +6,7 @@ using System;
 using Common;
 
 public class ClientManager : BaseManager {
-    private const string IP= "127.0.0.1";
+    private const string IP= "39.105.131.79";
     private const int PORT= 88;
     private Socket clientSocket;
     private Message msg = new Message();

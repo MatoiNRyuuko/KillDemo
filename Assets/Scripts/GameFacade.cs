@@ -27,8 +27,6 @@ public class GameFacade : MonoBehaviour {
     private RequestManager requestMng;
     private ClientManager clientMng;
 
-    private bool isEnterPlaying = false;
-
     //private void Awake()
     //{
     //    if (_instance != null)

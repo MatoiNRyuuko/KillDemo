@@ -176,6 +176,10 @@ public class CardEffect : MonoBehaviour {
                     gameController.state = GameState.PlayCard;
                     isMycancle = false;
                 }
+                else
+                {
+                    ClearCardEffect();
+                }
                 return false;
             }
             if (s == "tao")

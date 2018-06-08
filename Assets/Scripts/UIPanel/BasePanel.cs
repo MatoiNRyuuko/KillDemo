@@ -10,10 +10,7 @@ public class BasePanel : MonoBehaviour {
     }
     public GameFacade Facade
     {
-        set
-        {
-            facade = value;
-        }
+        set{ facade = value; }
     }
     protected void PlayClickSound()
     {
@@ -23,32 +20,17 @@ public class BasePanel : MonoBehaviour {
     /// 界面被显示出来，方法在UIManager中Push进栈时会调用。
     /// 子类重写这个方法。
     /// </summary>
-    public virtual void OnEnter()
-    {
-
-    }
-
+    public virtual void OnEnter(){ }
     /// <summary>
     /// 界面暂停
     /// </summary>
-    public virtual void OnPause()
-    {
-
-    }
-
+    public virtual void OnPause(){ }
     /// <summary>
     /// 界面继续
     /// </summary>
-    public virtual void OnResume()
-    {
-
-    }
-
+    public virtual void OnResume(){ }
     /// <summary>
     /// 界面不显示,退出这个界面，界面被关系
     /// </summary>
-    public virtual void OnExit()
-    {
-
-    }
+    public virtual void OnExit(){ }
 }

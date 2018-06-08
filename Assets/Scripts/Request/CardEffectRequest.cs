@@ -19,6 +19,5 @@ public class CardEffectRequest : BaseRequest {
     public override void OnResponse(string data)
     {
         cardEffect.GetCardEffect(data);
-        Debug.Log(data);
     }
 }
